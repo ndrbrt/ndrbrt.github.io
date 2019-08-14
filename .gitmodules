@@ -1,0 +1,3 @@
+[submodule "8bit-canvas"]
+	path = 8bit-canvas
+	url = https://github.com/ndrbrt/8bit-canvas
